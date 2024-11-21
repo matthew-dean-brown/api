@@ -1,0 +1,92 @@
+[
+    {
+        "firstName":"Matthew",
+        "lastName":"Brown",
+        "favHobby":"Squash",
+        "criminal":false,
+        "dreamCars":[
+            {
+                "carName":"Vroom vroom",
+                "engineCapacity":2,
+                "model":"Cardboard Box"
+            },
+            {
+                "carName":"Vroom 2",
+                "engineCapacity":1.4,
+                "model":"plastic Box"
+            }
+        ]
+    },
+    {
+        "firstName":"John",
+        "lastName":"Timmie",
+        "favHobby":"Cricket",
+        "criminal":true,
+        "dreamCars":[
+            {
+                "carName":"Toyota",
+                "engineCapacity":2,
+                "model":"Supra"
+            },
+            {
+                "carName":"Opel ",
+                "engineCapacity":1.4,
+                "model":"corsa"
+            }
+        ]
+    },
+    {
+        "firstName":"Luke",
+        "lastName":"Johnson",
+        "favHobby":"Soccer",
+        "criminal":true,
+        "dreamCars":[
+            {
+                "carName":"BMW",
+                "engineCapacity":2,
+                "model":"M series"
+            },
+            {
+                "carName":"Hyundai",
+                "engineCapacity":1,
+                "model":"Atos"
+            }
+        ]
+    },
+    {
+        "firstName":"Nathan",
+        "lastName":"Pombi",
+        "favHobby":"Basketball",
+        "criminal":false,
+        "dreamCars":[
+            {
+                "carName":"Vroom vroom",
+                "engineCapacity":2,
+                "model":"Cardboard Box"
+            },
+            {
+                "carName":"Vroom 2",
+                "engineCapacity":1.4,
+                "model":"plastic Box"
+            }
+        ]
+    },
+    {
+        "firstName":"Matthew1",
+        "lastName":"Brown1",
+        "favHobby":"Squash1",
+        "criminal":false,
+        "dreamCars":[
+            {
+                "carName":"Vroom vroom1",
+                "engineCapacity":21,
+                "model":"Cardboard Box1"
+            },
+            {
+                "carName":"Vroom 21",
+                "engineCapacity":1.41,
+                "model":"plastic Box1"
+            }
+        ]
+    }
+]
